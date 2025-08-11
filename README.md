@@ -1,3 +1,2 @@
-# El Challenge del Amigo Secreto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F233&width=435&lines=El+Challenge+del+Amigo+Secreto)](https://git.io/typing-svg)
 - Este repositorio es parte de un challenge en el cual estoy participando!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F233&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
