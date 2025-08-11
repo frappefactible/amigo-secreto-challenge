@@ -4,6 +4,9 @@
 
 ![arrowRight](https://readmecodegen.vercel.app/api/social-icon?name=arrowRight&size=16&color=%23f7f233) Este repositorio es parte de un challenge en el cual estoy participando!
 
+![opera_3Auc8NCPyL](https://github.com/user-attachments/assets/f76ba676-cf95-4671-84e4-76c4480e0719)
+
+
 ![arrowRight](https://readmecodegen.vercel.app/api/social-icon?name=arrowRight&size=16&color=%23f7f233) Funcionamiento:
 
 1. Entra a la pagina
